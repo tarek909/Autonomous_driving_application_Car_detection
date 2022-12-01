@@ -10,5 +10,6 @@ Yolo is a popular algorithm in computer vision used to recognize objects in an i
 
 
 ### Boundary Boxes <br />
-Boundary boxes is the output of YOLO algorithm. They contain information like what is the detected object, Probability, and co-ordinates of the object.
+Boundary boxes is the output of YOLO algorithm. They contain information like what is the detected object, Probability, and co-ordinates of the object. <br/>
+
 ![download](https://user-images.githubusercontent.com/61352701/205039558-a3a21d55-5d6c-41c6-ac8c-bdb51f922356.png)
